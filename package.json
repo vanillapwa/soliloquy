@@ -1,0 +1,23 @@
+{
+  "name": "soliloquy",
+  "version": "0.0.0",
+  "description": "A web based Presetation application",
+  "keywords": [
+    "pwa",
+    "vanilla",
+    "presentation",
+    "application"
+  ],
+  "repository": "https://github.com/vanillapwa/soliloquy.git",
+  "author": "Evan Plaice <evanplaice@gmail.com> (http://evanplaice.com/)",
+  "license": "MIT",
+  "type": "module",
+  "engines": {
+    "node": ">=13.2"
+  },
+  "scripts": {
+    "postversion": "git push --follow-tags"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
